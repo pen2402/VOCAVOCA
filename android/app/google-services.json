@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591902102022",
+    "project_id": "voca-database",
+    "storage_bucket": "voca-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591902102022:android:25ca8ff69b40a8cd64e987",
+        "android_client_info": {
+          "package_name": "com.example.voca_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591902102022-ur12slkc2ouee79nh14uaaamn334c40m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-BT7tlFTlikac-1Wz-K09ofG2qHr73rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591902102022-ur12slkc2ouee79nh14uaaamn334c40m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
